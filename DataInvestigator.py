@@ -1,11 +1,11 @@
 class DataInvestigator:
 
-    def baseline(col):
+    def baseline(self, col):
         pass
 
-    def corr(col1, col2):
+    def corr(self, col1, col2):
         pass
 
-    def zeroR(col):
+    def zeroR(self, col):
         pass
 
